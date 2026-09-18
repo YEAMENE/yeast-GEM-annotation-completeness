@@ -1,0 +1,16 @@
+# Analysis outputs
+output/
+
+# External data (not redistributed: see data/README.md)
+data/*
+!data/README.md
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS
+.DS_Store
+Thumbs.db
